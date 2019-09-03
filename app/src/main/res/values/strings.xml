@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">motionlayout-example</string>
+
+  <string name="album_name">Composure</string>
+  <string name="album_of">Album of</string>
+  <string name="album_artist">The Traveler</string>
+  <string name="song_name">Breath</string>
+  <string name="song_duration">04:20</string>
+</resources>
